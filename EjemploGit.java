@@ -3,7 +3,7 @@ public class EjemploGit {
         System.out.println("Hola Git");
         int numero=0;
         try {
-            numero = Integer.parseInt("3");
+            numero = Integer.parseInt("99999");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
